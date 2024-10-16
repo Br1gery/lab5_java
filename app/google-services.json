@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867288071383",
+    "project_id": "lab5-fd118",
+    "storage_bucket": "lab5-fd118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867288071383:android:2a70379911f76289d28492",
+        "android_client_info": {
+          "package_name": "com.chatlog.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlO4DQmpH3Ay12l5SY33ep63EHOzcdaH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867288071383:android:0b59fba65394577cd28492",
+        "android_client_info": {
+          "package_name": "com.example.lab5_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlO4DQmpH3Ay12l5SY33ep63EHOzcdaH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
